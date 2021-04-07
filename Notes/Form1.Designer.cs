@@ -145,7 +145,7 @@ namespace Notes
             this.Controls.Add(this.bodyLabel);
             this.Controls.Add(this.titleLabel);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Notes";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
