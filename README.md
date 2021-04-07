@@ -7,4 +7,4 @@ It's currently just a semi-working skeleton. You can create new notes, load note
 The interface is extremely simple and currently looks like this:
 ![Notes UI][ui]
 
-[ui]: https://github.com/LaiAlexander/CoverCreator/raw/master/ui.png "UI example"
+[ui]: https://raw.githubusercontent.com/LaiAlexander/Notes/master/ui.png "UI example"
